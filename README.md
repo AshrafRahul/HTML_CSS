@@ -1,2 +1,2 @@
-# HTML_CSS_JavaScript
-I am learning HTML, CSS, JavaScript. These repositories contain those exercises.
+# HTML_CSS
+I am learning HTML, CSS. These repositories contain those exercises.
